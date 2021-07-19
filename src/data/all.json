@@ -1,0 +1,440 @@
+{
+  "meses": {
+    "janeiro": {
+      "frutas": [
+        "abacaxi",
+        "carambola",
+        "coco-verde",
+        "figo",
+        "fruta-do-conde",
+        "laranja-pera",
+        "mamão",
+        "maracujá",
+        "melancia",
+        "nectarina"
+      ],
+      "legumes": [
+        "abóbora",
+        "abobrinha",
+        "beterraba",
+        "pepino",
+        "pimentão",
+        "quiabo"
+      ],
+      "verduras": ["alface", "cebolinha", "couve", "salsa", "salsão"],
+      "pescados": [
+        "bacalhau",
+        "cação",
+        "dourado",
+        "linguado",
+        "manjuba",
+        "pescada-amarela"
+      ]
+    },
+    "fevereiro": {
+      "frutas": [
+        "abacate",
+        "ameixa",
+        "carambola",
+        "figo",
+        "fruta-do-conde",
+        "goiaba",
+        "jaca",
+        "maçã",
+        "pera"
+      ],
+      "legumes": [
+        "abóbora",
+        "gengibre",
+        "milho-verde",
+        "pepino",
+        "pimentão",
+        "quiabo",
+        "tomate"
+      ],
+      "verduras": ["cebolinha", "escarola", "hortelã", "louro", "repolho"],
+      "pescados": [
+        "atum",
+        "bacalhau",
+        "badejo",
+        "bonito",
+        "cação",
+        "manjuba",
+        "merluza",
+        "sardinha"
+      ]
+    },
+    "março": {
+      "frutas": [
+        "abacate",
+        "abacaxi",
+        "ameixa",
+        "banana-maçã",
+        "banana-nanica",
+        "goiaba",
+        "jaca",
+        "limão",
+        "maçã",
+        "pera"
+      ],
+      "legumes": [
+        "abóbora",
+        "abobrinha",
+        "berinjela",
+        "beterraba",
+        "cará",
+        "chuchu",
+        "jiló",
+        "nabo",
+        "pepino",
+        "quiabo",
+        "tomate"
+      ],
+      "verduras": [
+        "acelga",
+        "alface",
+        "alho-poró",
+        "coentro",
+        "escarola",
+        "repolho",
+        "rúcula"
+      ],
+      "pescados": [
+        "badejo",
+        "cação",
+        "corvina",
+        "linguado",
+        "merluza",
+        "pintado",
+        "robalo",
+        "sardinha",
+        "tainha"
+      ]
+    },
+    "abril": {
+      "frutas": [
+        "abacate",
+        "banana-maçã",
+        "caqui",
+        "jaca",
+        "kiwi",
+        "maçã",
+        "pera"
+      ],
+      "legumes": [
+        "abóbora",
+        "abobrinha",
+        "berinjela",
+        "beterraba",
+        "cará",
+        "chuchu",
+        "gengibre",
+        "inhame"
+      ],
+      "verduras": [
+        "alface",
+        "alho-poró",
+        "almeirão",
+        "catalonha",
+        "chicória",
+        "repolho"
+      ],
+      "pescados": [
+        "bagre",
+        "bonito",
+        "cação",
+        "cavalinha",
+        "corvina",
+        "linguado",
+        "merluza",
+        "tainha"
+      ]
+    },
+    "maio": {
+      "frutas": [
+        "abacate",
+        "banana-maçã",
+        "caqui",
+        "kiwi",
+        "jaca",
+        "maçã",
+        "pera",
+        "tangerina"
+      ],
+      "legumes": [
+        "abóbora",
+        "abobrinha",
+        "batata-doce",
+        "berinjela",
+        "beterraba",
+        "cará",
+        "cenoura",
+        "chuchu",
+        "mandioca",
+        "mandioquinha",
+        "nabo"
+      ],
+      "verduras": [
+        "alho-poró",
+        "almeirão",
+        "erva-doce",
+        "louro",
+        "nabo",
+        "rabanete"
+      ],
+      "pescados": [
+        "bagre",
+        "bonito",
+        "cavalinha",
+        "lambari",
+        "linguado",
+        "tainha",
+        "traíra"
+      ]
+    },
+    "junho": {
+      "frutas": ["carambola", "kiwi", "laranja-lima", "tangerina"],
+      "legumes": [
+        "batata-doce",
+        "berinjela",
+        "cenoura",
+        "ervilha",
+        "inhame",
+        "mandioca",
+        "mandioquinha",
+        "milho-verde"
+      ],
+      "verduras": ["agrião", "alho-poró", "almeirão", "brócolis", "erva-doce"],
+      "pescados": [
+        "atum",
+        "badejo",
+        "camarão",
+        "caranguejo",
+        "lambari",
+        "porquinho",
+        "sardinha",
+        "siri",
+        "tainha"
+      ]
+    },
+    "julho": {
+      "frutas": ["carambola", "kiwi", "laranja-lima", "tangerina"],
+      "legumes": [
+        "cenoura",
+        "cogumelo",
+        "ervilha",
+        "inhame",
+        "mandioca",
+        "mandioquinha",
+        "milho-verde",
+        "palmito",
+        "pepino"
+      ],
+      "verduras": [
+        "agrião",
+        "coentro",
+        "couve",
+        "escarola",
+        "espinafre",
+        "mostarda"
+      ],
+      "pescados": [
+        "atum",
+        "badejo",
+        "cavalinha",
+        "espada",
+        "pargo",
+        "pescada",
+        "sardinha",
+        "trilha"
+      ]
+    },
+    "agosto": {
+      "frutas": [
+        "caju",
+        "carambola",
+        "laranja-pera",
+        "lima",
+        "maçã",
+        "tangerina",
+        "morango"
+      ],
+      "legumes": [
+        "cará",
+        "cenoura",
+        "ervilha",
+        "fava",
+        "inhame",
+        "mandioca",
+        "pimentão"
+      ],
+      "verduras": [
+        "agrião",
+        "couve",
+        "couve-flor",
+        "chicória",
+        "espinafre",
+        "mostarda",
+        "rúcula"
+      ],
+      "pescados": [
+        "atum",
+        "cação",
+        "corvina",
+        "espada",
+        "lambari",
+        "namorado",
+        "porquinho",
+        "sardinha"
+      ]
+    },
+    "setembro": {
+      "frutas": [
+        "abacaxi",
+        "banana-nanica",
+        "caju",
+        "jabuticaba",
+        "laranja-lima",
+        "laranja-pera",
+        "mexerica"
+      ],
+      "legumes": [
+        "cará",
+        "cogumelo",
+        "ervilha",
+        "fava",
+        "inhame",
+        "pimentão",
+        "rabanete"
+      ],
+      "verduras": [
+        "almeirão",
+        "couve",
+        "couve-flor",
+        "escarola",
+        "espinafre",
+        "louro",
+        "orégano"
+      ],
+      "pescados": ["atum", "corvina", "lambari", "sardinha", "tilapia"]
+    },
+    "outubro": {
+      "frutas": [
+        "abacaxi",
+        "acerola",
+        "banana-nanica",
+        "banana-prata",
+        "caju",
+        "manga",
+        "jabuticaba",
+        "lima"
+      ],
+      "legumes": [
+        "alcachofra",
+        "aspargo",
+        "berinjela",
+        "beterraba",
+        "ervilha",
+        "fava",
+        "pepino",
+        "tomate",
+        "caqui"
+      ],
+      "verduras": [
+        "almeirão",
+        "catalonha",
+        "cebolinha",
+        "coentro",
+        "espinafre",
+        "hortelã",
+        "mostarda"
+      ],
+      "pescados": [
+        "atum",
+        "bonito",
+        "corvina",
+        "lambari",
+        "linguado",
+        "pintado",
+        "robalo",
+        "salmão",
+        "tilapia"
+      ]
+    },
+    "novembro": {
+      "frutas": [
+        "abacaxi",
+        "acerola",
+        "banana-nanica",
+        "banana-prata",
+        "caju",
+        "coco-verde",
+        "mamão",
+        "manga",
+        "melancia",
+        "melão",
+        "pêssego"
+      ],
+      "legumes": [
+        "aspargo",
+        "berinjela",
+        "beterraba",
+        "cenoura",
+        "maxixe",
+        "nabo",
+        "pepino",
+        "pimentão",
+        "tomate"
+      ],
+      "verduras": [
+        "alho-poró",
+        "brócolis",
+        "cebolinha",
+        "endívia",
+        "erva-doce",
+        "espinafre"
+      ],
+      "pescados": ["bonito", "corvina", "dourado", "espada", "manjuba"]
+    },
+    "dezembro": {
+      "frutas": [
+        "ameixa",
+        "cereja",
+        "damasco",
+        "figo",
+        "lichia",
+        "manga",
+        "melancia",
+        "melão",
+        "nectarina"
+      ],
+      "legumes": [
+        "beterraba",
+        "cenoura",
+        "cogumelo",
+        "pimentão",
+        "tomate",
+        "vagem",
+        "macarrão"
+      ],
+      "verduras": [
+        "almeirão",
+        "cebolinha",
+        "endívia",
+        "erva-doce",
+        "rúcula",
+        "salsa",
+        "salsão"
+      ],
+      "pescados": [
+        "bagre",
+        "bonito",
+        "dourado",
+        "espada",
+        "manjuba",
+        "salmão",
+        "truta"
+      ]
+    }
+  }
+}
