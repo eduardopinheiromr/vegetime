@@ -1,6 +1,6 @@
 const getMonth = () => {
   const time = new Date();
-  return time.toLocaleString("default", { month: "long" });
+  return time.toLocaleString("pt-BR", { month: "long" });
 };
 
 export default getMonth;
